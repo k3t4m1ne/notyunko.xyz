@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+
+body {
+    background-image: url("https://i.pinimg.com/564x/68/c0/40/68c040c4e589c7e9766bf753ec1d5deb.jpg");
+    background-size: 400px;
+}
+
+#profile {
+    width: 1000px;
+    height: 700px;
+    border: 5px solid rgb(255, 206, 251);
+    padding: 50px;
+    margin: auto;
+}
+
+.profilepic {
+    border-radius: 50%;
+}
+
+.name {
+    color: lightpink;
+    font-family: Cherry Bomb One;
+    position: relative;
+    top: -200px;
+    left: 250px;
+    font-size: 40px;
+}
+
+/* BLINKIES TIME */ 
+
+.mikudayo {
+    width: 300px;
+    height: auto;
+    position: relative;
+    bottom: 800px;
+    left: 30px;
+}
+
+.badwebsite {
+    width: 300px;
+    height: auto;
+    position: relative;
+    bottom: 720px;
+    left: -275px;
+}
+
+.KITTIESSS {
+    width: 300px;
+    height: auto;
+    position: relative;
+    bottom: 640px;
+    left: -578px;
+}
+
+.musiccc {
+    width: 300px;
+    height: auto;
+    position: relative;
+    left: -880px;
+    bottom: 100px;
+
+}
+
+.moon {
+    position: relative;
+    height: 150px;
+    width: auto;
+    right: -500px;
+    bottom: 100px;
+}
+
+.bnnuy {
+    position: relative;
+    bottom: 226px;
+    left: 870px;
+}
