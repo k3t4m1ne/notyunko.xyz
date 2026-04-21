@@ -8,9 +8,10 @@ body {
 #profile {
     width: 1000px;
     height: 700px;
-    border: 5px solid rgb(255, 206, 251);
+    border: 3px solid rgb(255, 228, 252);
     padding: 50px;
     margin: auto;
+    border-radius: 4%;
 }
 
 .profilepic {
@@ -24,6 +25,15 @@ body {
     top: -200px;
     left: 250px;
     font-size: 40px;
+}
+
+.bio {
+    color: rgb(255, 211, 250);
+    font-family: Cherry Bomb One;
+    font-size: 30px;
+    position: relative;
+    bottom: 470px;
+    left: 250px;
 }
 
 /* BLINKIES TIME */ 
@@ -96,4 +106,11 @@ body {
     position: relative;
     bottom: 330px;
     right: 470px;
+}
+
+.mikuuu {
+    height: 100px;
+    position: relative;
+    top: -1000px;
+    left: 380px;
 }
