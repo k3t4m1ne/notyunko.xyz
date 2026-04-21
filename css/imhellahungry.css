@@ -71,6 +71,29 @@ body {
 
 .bnnuy {
     position: relative;
-    bottom: 226px;
+    bottom: 326px;
     left: 870px;
+}
+
+.desc {
+    font-family: Cherry bomb one;
+    color: rgb(255, 179, 245);
+    font-size: 30px;
+    position: relative;
+    top: -120px;
+}
+
+.rainbow {
+    height: 150px;
+    width: auto;
+    position: relative;
+    left: 990px;
+    bottom: 500px;
+}
+
+.kitty {
+    height: 130px;
+    position: relative;
+    bottom: 330px;
+    right: 470px;
 }
