@@ -36,6 +36,13 @@ body {
     left: 250px;
 }
 
+.angel {
+    position: relative;
+    bottom: 600px;
+    left: 530px;
+    height: 25px;
+}
+
 /* BLINKIES TIME */ 
 
 .mikudayo {
